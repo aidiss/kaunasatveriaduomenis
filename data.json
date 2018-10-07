@@ -1,0 +1,14 @@
+[{
+	"id": 1,
+	"region": "Kauno savivaldybė",
+	"country": "test",
+	"city": "testtest",
+	"complete": 1,
+	"primary": 1,
+	"timely": 1,
+	"accessible": 1,
+	"processable": 1,
+	"nonDiscriminatory": 1,
+	"nonProprietary": 1,
+	"licenseFree": 1
+}]
